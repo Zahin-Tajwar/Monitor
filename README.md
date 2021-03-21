@@ -1,5 +1,5 @@
 ## Monitor
-A monitoring programs written in Python that takes screenshots and saves keystrokes
+A monitoring program written in Python that takes screenshots and saves keystrokes
 
 #### Libraries:
 - pynput[pip install pynput]
@@ -7,4 +7,4 @@ A monitoring programs written in Python that takes screenshots and saves keystro
 
 #### Instruction:
 - Create keylogs.txt file & screenshots directory.
-- Just run the main.py file.
+- Run the main.py file.
